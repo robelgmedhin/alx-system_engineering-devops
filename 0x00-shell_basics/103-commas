@@ -1,2 +1,2 @@
-#!/bin/basb
-ls -xamp
+#!/bin/bash
+ls -pamv
