@@ -1,0 +1,2 @@
+#!/bin/basb
+cat etc/passwd
